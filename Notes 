@@ -1,0 +1,3 @@
+to put put a strong tag(display block) in the centre,you have to place a code: margin auto.
+
+to put a weak tag in the middle or centre you have to place a code to their parent (text align: center)
